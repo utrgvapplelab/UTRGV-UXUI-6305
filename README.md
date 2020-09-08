@@ -2,4 +2,4 @@
 
 Welcome UXUI 6305 Students! 
 
-I'm Oscar Ramos and I will be your instructor for this clas.
+I'm Oscar Ramos and I will be your instructor for this class.
